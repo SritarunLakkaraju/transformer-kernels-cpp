@@ -1,0 +1,14 @@
+# built binaries
+bench_kernels
+*.o
+*.dSYM/
+
+# python
+.venv/
+__pycache__/
+
+# recreated locally
+data/
+model/test_images.bin
+
+.DS_Store
